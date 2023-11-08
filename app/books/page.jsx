@@ -110,19 +110,20 @@ function page() {
         <div className=" bg-white py-12 sm:py-12">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <p className=" text-lg text-gray-900 text-center">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo. Elit sunt amet Qui irure qui lorem
+              <span className=" tracking-wide">Aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
+              lorem cupidatat commodo. </span> 
+              <br/><span>Elit sunt amet Qui irure qui lorem
               cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat
               aliqua. Anim aute id magna aliqua ad ad non deserunt sunt. veniam
-              occaecat fugia.
+              occaecat fugia.</span>
             </p>
             <div className="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-4 sm:mt-8 sm:pt-6 lg:mx-0 lg:max-w-none lg:grid-cols-3">
               {posts.map((post) => (
                 <article
                   key={post.id}
-                  className="flex max-w-xl flex-col items-start justify-between bg-slate-100 p-4"
+                  className="flex max-w-xl flex-col items-start justify-between bg-slate-200 p-4"
                 >
-                  <div className="object-cover my-auto  border-2 border-gray-600 ">
+                  <div className="object-cover my-auto mx-auto  border-2 border-gray-600  ">
                     <img
                       src={post.bookUrl}
                       width={200}
@@ -131,24 +132,24 @@ function page() {
                     />
                   </div>
                   <div className="flex items-center gap-x-4 text-xs mt-2">
-                    <time dateTime={post.datetime} className="text-gray-500">
+                    <time dateTime={post.datetime} className="text-gray-800 tracking-wide">
                       {post.date}
                     </time>
                     <a
                       href={post.category.href}
-                      className="relative z-10 rounded-full bg-gray-100 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100"
+                      className="relative z-10 rounded-full bg-gray-600 px-3 py-1.5 font-medium text-white hover:bg-gray-700"
                     >
-                      {post.category.title}
+                      <span>{post.category.title}</span>
                     </a>
                   </div>
                   <div className="group relative">
-                    <h3 className="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
+                    <h3 className="mt-3 text-lg font-semibold leading-6 text-cyan-700 ">
                       <a href={post.href}>
                         <span className="absolute inset-0" />
                         {post.title}
                       </a>
                     </h3>
-                    <p className="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">
+                    <p className="mt-5 line-clamp-3 text-sm leading-6 text-gray-900">
                       {post.description}
                     </p>
                   </div>

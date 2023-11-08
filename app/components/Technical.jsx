@@ -14,13 +14,32 @@ function Technical() {
       
       <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 py-20 sm:px-6 sm:py-20 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
         <div className="grid grid-cols-3 grid-rows-2 gap-4 sm:gap-6 lg:gap-6">
+          <div>
           <img
-            src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg"
+            src="/cloud-02.png"
             alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
             className="rounded-lg bg-gray-100"
           />
+          <h4 className='text-center'>Digital Infra</h4>
+          </div>
+           <div>
           <img
-            src="https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg"
+            src="/cloud-01.jpg"
+            alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
+            className="rounded-lg bg-gray-100"
+          />
+          <h4 className='text-center'>IT Networking</h4>
+          </div>
+          <div>
+          <img
+            src="/cloud-03.jpg"
+            alt="Walnut card tray with white powder coated steel divider and 3 punchout holes."
+            className="rounded-lg bg-gray-100"
+          />
+          <h4 className='text-center'>Industry 4.0</h4>
+          </div>
+          <img
+            src="/cloud-01.jpg"
             alt="Top down view of walnut card tray with embedded magnets and card groove."
             className="rounded-lg bg-gray-100"
           />
