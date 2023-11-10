@@ -1,0 +1,530 @@
+[
+    {
+      "id": 1,
+      "title": "The Power of Artificial Intelligence for Next-Gen",
+      "description":
+        "The Power of Artificial Intelligence for the Next-Generation Oil and Gas Industry: Envisaging AI-inspired Intelligent Energy Systems and Environments",
+      "href": "https://www.wiley.com/en-in/The+Power+of+Artificial+Intelligence+for+the+Next+Generation+Oil+and+Gas+Industry:+Envisaging+AI+inspired+Intelligent+Energy+Systems+and+Environments-p-9781119985587",
+
+      "bookUrl": "/b1.jpg",
+      "date": "Pre Order, 2023",
+      "category": "Marketing"
+    },
+
+    {
+      "id": 2,
+      "title": "Toward Artificial General Intelligence",
+      "description":
+        "Toward Artificial General Intelligence - Deep Learning, Neural Networks, Generative AI",
+      "href": "https://www.degruyter.com/document/doi/10.1515/9783111323749/html",
+
+      "bookUrl": "/b2.jpg",
+      "date": "Pre Order, 2024",
+      "category": "Marketing"
+    },
+    {
+      "id": 3,
+      "title": "Fuzzy-Based Internet of Medical Things",
+      "description": "Advances in Fuzzy-Based Internet of Medical Things (IoMT)",
+      "href": "https://www.barnesandnoble.com/w/fuzzy-based-internet-of-medical-things-satya-prakash-yadav/1144004833",
+
+      "bookUrl": "/b3.jpg",
+      "date": "Pre Order, 2024",
+      "category": "Marketing"
+    },
+    {
+      "id": 4,
+      "title": "Quantum Computing and Artificial Intelligence",
+      "description":
+        "Quantum Computing and Artificial Intelligence - Training Machine and Deep Learning Algorithms on Quantum Computers",
+      "href": "https://www.degruyter.com/document/doi/10.1515/9783110791402/html",
+
+      "bookUrl": "/b4.jpg",
+      "date": " 2023",
+      "category": "Marketing"
+    },
+    {
+      "id": 5,
+      "title": "Digital Twins, The Industry 4.0 Use Cases",
+      "description":
+        "Digital Twins, The Industry 4.0 Use Cases: The Technologies, Tools, Platforms and Applications",
+      "href": "https://novapublishers.com/shop/digital-twins-the-industry-4-0-use-cases-the-technologies-tools-platforms-and-applications/",
+
+      "bookUrl": "/b5.jpg",
+      "date": "Sep 19, 2023",
+      "category": "Marketing"
+    },
+    {
+      "id": 6,
+      "title": "Machine Intelligence",
+      "description":
+        "Machine Intelligence: Computer Vision and Natural Language Processing ",
+      "href": "https://www.amazon.com/Machine-Intelligence-Computer-Language-Processing-ebook/dp/B0CKD171DL/ref=sr_1_5?qid=1699547852&refinements=p_27%3APethuru+Raj&s=books&sr=1-5",
+
+      "bookUrl": "/b6.jpg",
+      "date": "Oct 3 , 2023",
+      "category": "Marketing"
+    },
+
+    {
+      "id": 7,
+      "title": "Streaming Analytics",
+      "description":
+        "Concepts, architectures, platforms, use cases and applications",
+
+      "href": "https://www.barnesandnoble.com/w/streaming-analytics-pethuru-raj/1141435706",
+
+      "bookUrl": "/b7.jpg",
+      "date": "Apr 11, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 8,
+      "title": "Demystifying Graph Data Science",
+      "description":
+        "Graph algorithms, analytics methods, platforms, databases, and use cases",
+      "href": "https://www.barnesandnoble.com/w/demystifying-graph-data-science-pethuru-raj/1141425684?ean=9781839534881",
+
+      "bookUrl": "/b8.jpg",
+      "date": "Nov 28, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 9,
+      "title":
+        "Applying Drone Technologies and Robotics for Agricultural Sustainability",
+      "description":
+        "Applying Drone Technologies and Robotics for Agricultural Sustainability",
+      "href": "https://www.igi-global.com/book/applying-drone-technologies-robotics-agricultural/301566#table-of-contents",
+
+      "bookUrl": "/b9.jpg",
+      "date": "Jan, 2023",
+      "category": "Marketing"
+    },
+    {
+      "id": 10,
+      "title": "Edge/Fog Computing Paradigm",
+      "description": "The Concept, Platforms and Applications",
+      "href": "https://shop.elsevier.com/books/edge-fog-computing-paradigm-the-concept-platforms-and-applications/raj/978-0-12-824506-4",
+
+      "bookUrl": "/b10.jpg",
+      "date": "Apr 21, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 11,
+      "title": "Cloud-native Computing",
+      "description":
+        "How to Design, Develop, and Secure Microservices and Event-Driven Applications",
+      "href": "https://www.wiley.com/en-us/Cloud+native+Computing:+How+to+Design,+Develop,+and+Secure+Microservices+and+Event+Driven+Applications-p-9781119814764",
+
+      "bookUrl": "/b11.jpg",
+      "date": "Oct, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 12,
+      "title": "Security, Privacy and Data Analytics",
+      "description":
+        "Select Proceedings of ISPDA 2021: 848 (Lecture Notes in Electrical ",
+      "href": "https://www.amazon.in/Security-Privacy-Data-Analytics-Proceedings/dp/981169088X/ref=sr_1_26?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654008824&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-26",
+
+      "bookUrl": "/b12.jpg",
+      "date": "Apr 08, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 13,
+      "title": "Industrial IoT Application Architectures",
+      "description": "Industrial IoT Application Architectures and Use Cases",
+      "href": "https://www.amazon.in/Industrial-IoT-Application-Architectures-Cases-ebook/dp/B088J331FV/ref=sr_1_17?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654008824&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-17",
+
+      "bookUrl": "/b13.jpg",
+      "date": "May 10, 2020",
+      "category": "Marketing"
+    },
+    {
+      "id": 14,
+      "title": "Applied Edge AI",
+      "description":
+        "Applied Edge AI: Concepts, Platforms, and Industry Use Cases",
+      "href": "https://www.amazon.in/Applied-Edge-AI-Concepts-Platforms/dp/0367702363/ref=sr_1_21?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654008339&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-21",
+
+      "bookUrl": "/b14.jpg",
+      "date": "Apr 6, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 15,
+      "title": "Internet of Things",
+      "description": "Internet of Things Use Cases for the Healthcare Industry",
+      "href": "https://www.amazon.in/Internet-Things-Cases-Healthcare-Industry/dp/3030375250/ref=sr_1_24?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654008339&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-24",
+
+      "bookUrl": "/b15.jpg",
+      "date": "Apr 01, 2020",
+      "category": "Marketing"
+    },
+    {
+      "id": 16,
+      "title": "Cognitive Internet of Things",
+      "description": "Cognitive Internet of Thing",
+      "href": "https://www.amazon.in/Cognitive-Internet-Things-Technologies-Platforms/dp/1032213353/ref=sr_1_3?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007997&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-3",
+
+      "bookUrl": "/b16.jpg",
+      "date": "Mar 30, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 17,
+      "title": "Enterprise Digital Transformation",
+      "description": "Enterprise Digital Transformation",
+      "href": "https://www.amazon.in/Enterprise-Digital-Transformation-Technology-Tools/dp/0367635895/ref=sr_1_22?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007863&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-22",
+
+      "bookUrl": "/b17.jpg",
+      "date": "Feb 18, 2022",
+      "category": "Marketing"
+    },
+    {
+      "id": 18,
+      "title": "Practical Python Programming for Data Scientists",
+      "description": "Practical Python Programming for Data Scientists",
+      "href": "https://www.amazon.in/Practical-Python-Programming-Data-Scientists/dp/1774691582/ref=sr_1_16?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007713&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-16",
+
+      "bookUrl": "/b18.jpg",
+      "date": "Dec 30, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 19,
+      "title": "Blockchain, Artificial Intelligence, and the Internet of Things",
+      "description":
+        "Possibilities and Opportunities (EAI/Springer Innovations in Communication and Computing)",
+      "href": "https://www.amazon.in/Blockchain-Artificial-Intelligence-Internet-Things/dp/3030776360/ref=sr_1_30?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007601&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-30",
+
+      "bookUrl": "/b19.jpg",
+      "date": "Nov 23, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 20,
+      "title": "Applied Learning Algorithms for Intelligent IoT",
+      "description": "Applied Learning Algorithms for Intelligent IoT",
+      "href": "https://www.amazon.in/Applied-Learning-Algorithms-Intelligent-IoT-ebook/dp/B09SNWZZMK/ref=sr_1_37?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007487&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-37",
+
+      "bookUrl": "/b20.jpg",
+      "date": "Oct 28, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 21,
+      "title": "Handbook of Research on Smarter and Secure Industrial",
+      "description":
+        "Handbook of Research on Smarter and Secure Industrial Applications Using AI, IoT, and Blockchain Technology (Advances in Systems Analysis, Software Engineering, and High Performance Computing)",
+      "href": "https://www.amazon.in/Industrial-Applications-Blockchain-Engineering-Performance/dp/1799883671/ref=sr_1_19?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007272&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-19",
+
+      "bookUrl": "/b21.jpg",
+      "date": "Dec 30, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 22,
+      "title":
+        "Operationalizing Multi-Cloud Environments: Technologies, Tools and Use Cases",
+      "description":
+        "Operationalizing Multi-Cloud Environments: Technologies, Tools and Use Cases (EAI/Springer Innovations in Communication and Computing) ",
+      "href": "https://www.amazon.in/Operationalizing-Multi-Cloud-Environments-Technologies-Communication/dp/3030744019/ref=sr_1_32?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654007126&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-32",
+
+      "bookUrl": "/b22.jpg",
+      "date": "Sep 18, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 23,
+      "title": "Essential Enterprise Blockchain Concepts and Applications ",
+      "description": "Essential Enterprise Blockchain Concepts and Applications ",
+      "href": "https://www.amazon.in/Essential-Enterprise-Blockchain-Concepts-Applications/dp/0367564882/ref=sr_1_34?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654006942&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-34",
+
+      "bookUrl": "/b23.jpg",
+      "date": "Jun 16, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 24,
+      "title": "Cloud Reliability Engineering Technologies and Tools",
+      "description": "Cloud Reliability Engineering Technologies and Tools",
+      "href": "https://www.amazon.in/Cloud-Reliability-Engineering-Technologies-Tools/dp/036771373X/ref=sr_1_12?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654006790&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-12",
+
+      "bookUrl": "/b24.jpg",
+      "date": "Apr 12, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 25,
+      "title": "Advances in Computers, Volume 121",
+      "description":
+        "The Blockchain Technology for Secure and Smart Applications across Industry Verticals (Advances in Computers, Volume 121)",
+      "href": "https://www.amazon.in/Blockchain-Technology-Applications-Industry-Verticals-ebook/dp/B08TVLPHSM/ref=sr_1_21?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654006557&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-21",
+
+      "bookUrl": "/b25.jpg",
+      "date": "Jan 23, 2021",
+      "category": "Marketing"
+    },
+    {
+      "id": 26,
+      "title": "Essentials of Cloud Computing",
+      "description":
+        "Essentials of Cloud Computing: A Holistic Perspective (Texts in Computer Science)",
+      "href": "https://www.amazon.in/Essentials-Cloud-Computing-Holistic-Perspective/dp/303013136X/ref=sr_1_9?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005949&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-9",
+
+      "bookUrl": "/b26.jpg",
+      "date": "Dec 1, 2020",
+      "category": "Marketing"
+    },
+    {
+      "id": 27,
+      "title": "BLOCKCHAIN TECHNOLOGY AND APPLICATIONS",
+      "description": "BLOCKCHAIN TECHNOLOGY AND APPLICATIONS, 1ST EDITION",
+      "href": "https://www.amazon.in/Blockchain-Technology-Applications-Pethuru-Raj/dp/0367533405/ref=sr_1_6?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005949&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-6",
+
+      "bookUrl": "/b27.jpg",
+      "date": "Sep 17, 2020",
+      "category": "Marketing"
+    },
+    {
+      "id": 28,
+      "title": "INTERNET OF THINGS AND BIG DATA ANALYTICS",
+      "description":
+        "INTERNET OF THINGS AND BIG DATA ANALYTICS: INTEGRATED PLATFORMS AND INDUSTRY USE CASES",
+      "href": "https://www.amazon.in/Internet-Things-Big-Data-Analytics/dp/0367342898/ref=sr_1_22?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005452&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-22",
+
+      "bookUrl": "/b28.jpg",
+      "date": "Jun 29, 2020",
+      "category": "Marketing"
+    },
+
+    {
+      "id": 29,
+      "title": "The Digital Twin Paradigm",
+      "description":
+        "The Digital Twin Paradigm for Smarter Systems and Environments: The Industry Use Cases (Advances in Computers, Volume 117)",
+      "href": "https://www.amazon.in/Digital-Paradigm-Smarter-Systems-Environments-ebook/dp/B084B7GMRZ/ref=sr_1_19?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005452&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-19",
+      "bookUrl": "/b29.jpg",
+      "date": "Jan 28, 2020",
+      "category": "Marketing"
+    },
+    {
+      "id": 30,
+      "title": "Essentials of Microservices Architecture",
+      "description":
+        "Essentials of Microservices Architecture: Paradigms, Applications, and Techniques",
+      "href": "https://www.amazon.in/Essentials-Microservices-Architecture-Applications-Techniques/dp/0367249952/ref=sr_1_4?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005314&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-4",
+      "bookUrl": "/b30.jpg",
+      "date": "Sep 05, 2019",
+      "category": "Marketing"
+    },
+    {
+      "id": 31,
+      "title": "Novel Practices and Trends in Grid and Cloud Computing",
+      "description": "Novel Practices and Trends in Grid and Cloud Computing",
+      "href": "https://www.amazon.in/Novel-Practices-Trends-Cloud-Computing/dp/1522590242/ref=sr_1_28?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005116&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-28",
+
+      "bookUrl": "/b31.jpg",
+      "date": "Jun 30, 2019",
+      "category": "Marketing"
+    },
+    {
+      "id": 32,
+      "title": "Hands-On RESTful API Design Patterns and Best Practices",
+      "description":
+        "Hands-On RESTful API Design Patterns and Best Practices: Design, develop, and deploy highly adaptable, scalable, and secure RESTful web APIs",
+      "href": "https://www.amazon.in/Hands-RESTful-Design-Patterns-Practices/dp/1788992660/ref=sr_1_14?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654004471&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-14",
+
+      "bookUrl": "/b32.jpg",
+      "date": "Jan 01, 2019",
+      "category": "Marketing"
+    },
+    {
+      "id": 33,
+      "title": "Practical Site Reliability Engineering",
+      "description":
+        "Practical Site Reliability Engineering: Automate the process of designing, developing, and delivering highly reliable apps and services with SRE",
+      "href": "https://www.amazon.in/Practical-Site-Reliability-Engineering-developing/dp/1788839560/ref=sr_1_11?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654004471&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-11",
+
+      "bookUrl": "/b33.jpg",
+      "date": "Nov 30, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 34,
+      "title": "Cloud Enterprise Architecture",
+      "description": "Cloud Enterprise Architecture",
+      "href": "https://www.amazon.in/Cloud-Enterprise-Architecture-Pethuru-Raj/dp/1138374652/ref=sr_1_15?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654012875&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-15",
+
+      "bookUrl": "/b34.jpg",
+      "date": "Sep 18, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 35,
+      "title": "Automated Workflow Scheduling in Self-Adaptive Clouds",
+      "description":
+        "Automated Workflow Scheduling in Self-Adaptive Clouds: Concepts, Algorithms and Methods (Computer Communications and Networks)",
+      "href": "https://www.amazon.in/Automated-Workflow-Scheduling-Self-Adaptive-Clouds/dp/331986050X/ref=sr_1_8?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654004471&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-8",
+
+      "bookUrl": "/b35.jpg",
+      "date": "Aug 28, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 36,
+      "title": "Blockchain Technology",
+      "description":
+        "Blockchain Technology: Platforms, Tools and Use Cases (Advances in Computers, Volume 111)",
+      "href": "https://www.amazon.in/Blockchain-Technology-Platforms-Advances-Computers-ebook/dp/B07GQVJSNC/ref=sr_1_20?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654004303&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-20",
+
+      "bookUrl": "/b36.jpg",
+      "date": "Aug 21, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 37,
+      "title": "Software-Defined Cloud Centers",
+      "description":
+        "Software-Defined Cloud Centers: Operational and Management Technologies and Tools (Computer Communications and Networks) ",
+      "href": "https://www.amazon.in/Software-Defined-Cloud-Centers-Technologies-Communications/dp/3319786369/ref=sr_1_7?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654003991&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-7",
+
+      "bookUrl": "/b37.jpg",
+      "date": "May 18, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 38,
+      "title":
+        "Handbook of Research on Cloud and Fog Computing Infrastructures for Data Science",
+      "description":
+        "Handbook of Research on Cloud and Fog Computing Infrastructures for Data Science (Advances in Computer and Electrical Engineering)",
+      "href": "https://www.amazon.in/Handbook-Computing-Infrastructures-Electrical-Engineering/dp/1522559728/ref=sr_1_18?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654003075&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-18",
+
+      "bookUrl": "/b38.jpg",
+      "date": "May 30, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 39,
+      "title": "A Deep Dive into NoSQL Databases",
+      "description":
+        "A Deep Dive into NoSQL Databases: The Use Cases and Applications (Advances in Computers, Volume 109)",
+      "href": "https://www.amazon.in/Deep-Dive-into-NoSQL-Databases-ebook/dp/B07CTGMK72/ref=sr_1_18?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654003075&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-18",
+
+      "bookUrl": "/b39.jpg",
+      "date": "Apr 20, 2018",
+      "category": "Marketing"
+    },
+    {
+      "id": 40,
+      "title": "Architectural Patterns",
+      "description":
+        "Architectural Patterns: Uncover essential patterns in the most indispensable realm of enterprise architecture",
+      "href": "https://www.amazon.in/Architectural-Patterns-indispensable-enterprise-architecture/dp/1787287491/ref=sr_1_20?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654003075&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-20",
+
+      "bookUrl": "/b40.jpg",
+      "date": "Dec 22, 2017",
+      "category": "Marketing"
+    },
+    {
+      "id": 41,
+      "title": "Learning Docker",
+      "description": "Learning Docker, Second Edition",
+      "href": "https://www.amazon.in/Learning-Docker-Jeeva-S-Chelladhurai/dp/1786462923/ref=sr_1_13?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654002908&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-13",
+
+      "bookUrl": "/b41.jpg",
+      "date": "May 31, 2017",
+      "category": "Marketing"
+    },
+    {
+      "id": 42,
+      "title": "Docker Bootcamp",
+      "description": "Docker Bootcamp",
+      "href": "https://www.amazon.in/Docker-Bootcamp-Russ-McKendrick/dp/1787286983/ref=sr_1_36?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654002780&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-36",
+
+      "bookUrl": "/b42.jpg",
+      "date": "Apr 27, 2017",
+      "category": "Marketing"
+    },
+    {
+      "id": 43,
+      "title": "The Internet of Things",
+      "description":
+        "The Internet of Things: Enabling Technologies, Platforms, and Use Cases",
+      "href": "https://www.amazon.in/Internet-Things-Enabling-Technologies-Platforms/dp/1498761283/ref=sr_1_1?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654002525&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-1",
+
+      "bookUrl": "/b43.jpg",
+      "date": "Mar 2, 2017",
+      "category": "Marketing"
+    },
+    {
+      "id": 44,
+      "title": "High-Performance Big-Data Analytics",
+      "description":
+        "High-Performance Big-Data Analytics: Computing Systems and Approaches (Computer Communications and Networks) ",
+      "href": "https://www.amazon.in/High-Performance-Big-Data-Analytics-Computer-Communications/dp/3319207431/ref=sr_1_5?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654002096&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-5",
+
+      "bookUrl": "/b44.jpg",
+      "date": "Oct 28, 2015",
+      "category": "Marketing"
+    },
+    {
+      "id": 45,
+      "title": "Learning Docker",
+      "description": "Learning Docker",
+      "href": "https://www.amazon.in/Learning-Docker-Pethuru-Raj/dp/1784397938/ref=sr_1_10?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654001746&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-10",
+
+      "bookUrl": "/b45.jpg",
+      "date": "Jun 19, 2015",
+      "category": "Marketing"
+    },
+    {
+      "id": 46,
+      "title": "Intelligent Cities",
+      "description":
+        "Intelligent Cities: Enabling Tools and Technology 1st Edition",
+      "href": "https://www.amazon.in/Intelligent-Cities-Enabling-Tools-Technology-ebook/dp/B00YRJ6WFC/ref=sr_1_33?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654001123&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-33",
+
+      "bookUrl": "/b46.jpg",
+      "date": "Jun 15, 2015",
+      "category": "Marketing"
+    },
+    {
+      "id": 47,
+      "title": "Next Generation SOA",
+      "description":
+        "Next Generation SOA: A Concise Introduction to Service Technology & Service-Orientation (The Pearson Service Technology Series from Thomas Erl) ",
+      "href": "https://www.amazon.in/Next-Generation-SOA-Introduction-Service-Orientation-ebook/dp/B00P2JSPPQ/ref=sr_1_34?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654001123&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-34",
+
+      "bookUrl": "/b47.jpg",
+      "date": "Oct 31, 2014",
+      "category": "Marketing"
+    },
+    {
+      "id": 48,
+      "title": "Service-Oriented Infrastructure",
+      "description":
+        "Service-Oriented Infrastructure: On-Premise and in the Cloud ",
+      "href": "https://www.amazon.in/Service-Oriented-Infrastructure-Premise-Prentice-Computing/dp/0132360284/ref=sr_1_33?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654001123&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-33",
+
+      "bookUrl": "/b48.jpg",
+      "date": "Sep 01, 2014",
+      "category": "Marketing"
+    },
+    {
+      "id": 49,
+      "title": "Cloud Infrastructures for Big Data Analytics",
+      "description":
+        "Cloud Infrastructures for Big Data Analytics (Advances in Data Mining and Database Management Book Series)",
+      "href": "https://www.amazon.in/Infrastructures-Analytics-Advances-Database-Management/dp/1466658649/ref=sr_1_2?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654000708&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-2",
+
+      "bookUrl": "/b49.jpg",
+      "date": "Mar 30, 2014",
+      "category": "Marketing"
+    }
+  ]

@@ -27,26 +27,26 @@ function Books() {
                   <div className="flex items-center space-x-6 lg:space-x-8">
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
-                        <img
-                          src="book1.jpg"
-                          alt=""
-                          className="h-full w-full object-cover object-center p-3"
+                        <img 
+                          src="/Streaming Analytics.png"
+                          alt="Streaming Analytics"
+                          className="h-full w-full object-cover object-center p-2"
                         />
                       </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
-                          src="/book2.jpg"
+                          src="/Cognitive Internet.png"
                           alt=""
-                          className="h-full w-full object-cover object-center"
+                          className="h-full w-full object-cover object-center p-2"
                         />
                       </div>
                     </div>
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
-                          src="/book3.jpg"
+                          src="/Book-Blockchain.png"
                           alt=""
-                          className="h-full w-full object-cover object-center"
+                          className="h-full w-full object-cover object-center p-2"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
@@ -58,7 +58,7 @@ function Books() {
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="book5.jpg"
+                          src="/Demystifying.png"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
@@ -86,7 +86,7 @@ function Books() {
 
               <Link
                 href="/books"
-                className="inline-block rounded-md border border-transparent bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
+                className="inline-block rounded-md  bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-neutral-800 tracking-wide border-2 border-zinc-400"
               >
                 View More Books
               </Link>

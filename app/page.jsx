@@ -1,25 +1,26 @@
-import React from 'react'
-import Header from './components/Header'
-import Tech from './components/Tech'
-import Books from './components/Books'
-import Footer from './components/Footer'
-import Banner from './components/Banner'
-import Technical from './components/Technical'
-
+import React from "react";
+import Header from "./components/Header";
+import Books from "./components/Books";
+import Footer from "./components/Footer";
+import Banner from "./components/Banner";
+import Technical from "./components/Technical";
+import Tech from "./components/Tech";
 
 
 function HomePage() {
-  return (<>
-  
-  <Header/>
-  <Banner/>
-  <Technical/>
- 
-  <Books/>
+  return (
+    <>
+      <Header />
+      <Banner />
+      <Books />
+          <Tech />
+      <Technical />
+     
+      <Footer />
 
-  <Footer/>
-  </>
-  )
+    
+    </>
+  );
 }
 
-export default HomePage
+export default HomePage;
