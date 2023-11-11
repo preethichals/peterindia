@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-function Technical() {
+function Tools() {
   const features = [
     {
       id:1,
@@ -101,25 +101,26 @@ function Technical() {
           ))}
         </div>
 
-        <div className="m-auto p-6 bg-neutral-700 rounded-lg">
-          <h2 className="text-4xl text-center font-light tracking-wide text-cyan-300 sm:text-4xl pt-3">
+        <div className="m-auto p-6 bg-gradient-to-b from-purple-100 to-pink-100  rounded-lg">
+          <h2 className="text-4xl text-center font-bold tracking-wide text-gray-900 sm:text-4xl pt-3">
             Technical Specifications
           </h2>
-          <p className="mt-4 text-neutral-200 text-center tracking-wide font-light leading-7">
+          <p className="mt-4 text-neutral-700 text-center">
             The walnut wood card tray is precision milled to perfectly fit a
             stack of Focus cards. The powder coated steel divider separates
             active cards from new ones, or can be used to archive important task
             lists.
           </p>
 
-          <dl className="mt-7 pb-7 bg-white grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-6 lg:gap-x-8">
+          <dl className="mt-10 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-6 lg:gap-x-8">
             {features.map((feature) => (
-              <div key={feature.name} className="border-t border-gray-400 pt-4">
-                <Link href={feature.href}><dt className="font-semibold text-md text-cyan-500 ms-3 tracking-wider uppercase hover:text-neutral-800 hover:underline">
+              <div key={feature.id} className="border-t border-gray-500 pt-4">
+                 <Link href={feature.href} target="_blank" rel="noopener noreferrer">
+                <dt className="font-semibold text-base text-purple-900 ms-3 tracking-wider uppercase hover:text-zinc-900 hover:font-bold">
                   {feature.name} <span aria-hidden="true">→</span>
                 </dt>
                 </Link>
-                <dd className="mt-2 text-sm text-neutral-700 ms-3">
+                <dd className="mt-2 text-sm text-neutral-900 ms-3">
                   {feature.description}
                 </dd>
               </div>
@@ -131,4 +132,4 @@ function Technical() {
   );
 }
 
-export default Technical;
+export default Tools;

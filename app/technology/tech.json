@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "5G Communication",
+    "description": "5G Communication",
+    "href": "https://www.peterindia.net/5G.html"
+  },
+  {
+    "id": 2,
+    "name": "Artificial Intelligence(AI)",
+    "description": "Artificial Intelligence(AI)",
+    "href": "https://www.peterindia.net/AI.html"
+  },
+  {
+    "id": 3,
+    "name": "Blockchain Technology",
+    "description": "Blockchain Technology",
+    "href": "https://www.peterindia.net/Blockchain.html"
+  },
+  {
+    "id": 4,
+    "name": "Cloud-native Computing",
+    "description": "Cybersecurity",
+    "href": "https://www.peterindia.net/CloudNative.html"
+  },
+  {
+    "id": 5,
+    "name": "Cybersecurity",
+    "description": "Cybersecurity",
+    "href": "https://www.peterindia.net/Cybersecurity.html"
+  },
+  {
+    "id": 6,
+    "name": "Data Engineering",
+    "description": "Data Engineering",
+    "href": "https://www.peterindia.net/DataEngineering.html"
+  },
+  {
+    "id": 7,
+    "name": "DevOps for IT Agility",
+    "description": "DevOps for IT Agility",
+    "href": "https://www.peterindia.net/DevOps.html"
+  },
+  {
+    "id": 8,
+    "name": "Enterprise Architecture",
+    "description": "Enterprise Architecture",
+    "href": "https://www.peterindia.net/EA.html"
+  },
+  {
+    "id": 9,
+    "name": "Event Driven Architecture",
+    "description": "Event Driven Architecture (EDA)",
+    "href": "https://www.peterindia.net/EDA.html"
+  },
+  {
+    "id": 10,
+    "name": "Hyperautomation",
+    "description": "Hyperautomation",
+    "href": "https://www.peterindia.net/Hyperautomation.html"
+  },
+
+  {
+    "id": 11,
+    "name": "Integration Technologies",
+    "description": "Integration Technologies",
+    "href": "https://www.peterindia.net/IntegrationTechnologies.html"
+  },
+  {
+    "id": 12,
+    "name": "Knowledge Engineering",
+    "description": "Knowledge Engineering",
+    "href": "https://www.peterindia.net/KnowledgeEngineering.html"
+  },
+  {
+    "id": 14,
+    "name": "Process Engineering",
+    "description": "Process Engineering and Management",
+    "href": "https://www.peterindia.net/ProcessEngineering.html"
+  },
+  {
+    "id": 15,
+    "name": "Reliability Engineering",
+    "description": "Reliability Engineering",
+    "href": "https://www.peterindia.net/ReliabilityEngineering.html"
+  },
+  {
+    "id": 18,
+    "name": "(IoT) Paradigm",
+    "description": "The Internet of Things (IoT) Paradigm",
+    "href": "https://www.peterindia.net/IoT.html"
+  }
+  
+]

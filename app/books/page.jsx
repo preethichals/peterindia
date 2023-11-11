@@ -1,16 +1,15 @@
 import Link from "next/link";
 import React from "react";
-import books from './books.json'
+import books from "./books.json";
 
 function page() {
-  
   return (
     <>
       <div className="bg-fixed bg-books">
         <div className="mx-auto max-w-2xl py-24 sm:py-30 lg:py-35 ">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center ">
             <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Announcing our next round of funding.{" "}
+              Announcing our next New Selease Books{" "}
               <a href="#" className="font-semibold text-sky-500">
                 <span className="absolute inset-0" aria-hidden="true" />
                 Read more <span aria-hidden="true">&rarr;</span>
@@ -47,7 +46,10 @@ function page() {
             </span>
           </p>
           {/* Books Section */}
-          <div className="mx-auto max-w-7xl px-6 lg:px-8  bg-stone-300 rounded-lg">
+          <div
+            id="#top"
+            className="mx-auto max-w-7xl px-6 lg:px-8  bg-stone-300 rounded-lg"
+          >
             <div className="mx-auto mt-10 grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 border-t border-gray-200 pt-4 sm:mt-8 sm:pt-6 lg:mx-0 lg:max-w-none lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-2">
               {books.map((book) => (
                 <article
@@ -107,6 +109,13 @@ function page() {
                   </div>
                 </article>
               ))}
+            </div>
+            <div className=" mt-6 mb-8 flex items-center gap-x-4 flex-row-reverse">
+              <Link href="#top">
+                <button className="bg-sky-500 mb-8 rounded-md font-medium text-sm tracking-widest text-white  py-2 px-4  hover:bg-neutral-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105 duration-300">
+                  Scroll to Top
+                </button>
+              </Link>
             </div>
           </div>
         </div>

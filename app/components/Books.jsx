@@ -28,14 +28,14 @@ function Books() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img 
-                          src="/Streaming Analytics.png"
+                          src="/b2.jpg"
                           alt="Streaming Analytics"
                           className="h-full w-full object-cover object-center p-2"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
-                          src="/Cognitive Internet.png"
+                          src="/b3.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center p-2"
                         />
@@ -44,21 +44,21 @@ function Books() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                        <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
-                          src="/Book-Blockchain.png"
+                          src="/Cognitive Internet.png"
                           alt=""
                           className="h-full w-full object-cover object-center p-2"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="book4.jpg"
+                          src="b5.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="/Demystifying.png"
+                          src="/b1.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
@@ -67,14 +67,14 @@ function Books() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="/book2.jpg"
+                          src="/Book-Blockchain.png"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="/book3.jpg"
+                          src="/b6.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
@@ -86,7 +86,7 @@ function Books() {
 
               <Link
                 href="/books"
-                className="inline-block rounded-md  bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-neutral-800 tracking-wide border-2 border-zinc-400"
+                className="inline-block rounded-md   bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-neutral-800 tracking-wide border-2 border-zinc-400"
               >
                 View More Books
               </Link>
@@ -94,6 +94,7 @@ function Books() {
           </div>
         </div>
       </div>
+   
     </div>
   )
 }

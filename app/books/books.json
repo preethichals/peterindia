@@ -1,18 +1,8 @@
 [
+    
+
     {
       "id": 1,
-      "title": "The Power of Artificial Intelligence for Next-Gen",
-      "description":
-        "The Power of Artificial Intelligence for the Next-Generation Oil and Gas Industry: Envisaging AI-inspired Intelligent Energy Systems and Environments",
-      "href": "https://www.wiley.com/en-in/The+Power+of+Artificial+Intelligence+for+the+Next+Generation+Oil+and+Gas+Industry:+Envisaging+AI+inspired+Intelligent+Energy+Systems+and+Environments-p-9781119985587",
-
-      "bookUrl": "/b1.jpg",
-      "date": "Pre Order, 2023",
-      "category": "Marketing"
-    },
-
-    {
-      "id": 2,
       "title": "Toward Artificial General Intelligence",
       "description":
         "Toward Artificial General Intelligence - Deep Learning, Neural Networks, Generative AI",
@@ -23,13 +13,24 @@
       "category": "Marketing"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Fuzzy-Based Internet of Medical Things",
       "description": "Advances in Fuzzy-Based Internet of Medical Things (IoMT)",
       "href": "https://www.barnesandnoble.com/w/fuzzy-based-internet-of-medical-things-satya-prakash-yadav/1144004833",
 
       "bookUrl": "/b3.jpg",
       "date": "Pre Order, 2024",
+      "category": "Marketing"
+    },
+    {
+      "id": 3,
+      "title": "The Power of Artificial Intelligence for Next-Gen",
+      "description":
+        "The Power of Artificial Intelligence for the Next-Generation Oil and Gas Industry: Envisaging AI-inspired Intelligent Energy Systems and Environments",
+      "href": "https://www.wiley.com/en-in/The+Power+of+Artificial+Intelligence+for+the+Next+Generation+Oil+and+Gas+Industry:+Envisaging+AI+inspired+Intelligent+Energy+Systems+and+Environments-p-9781119985587",
+
+      "bookUrl": "/b1.jpg",
+      "date": "Pre Order Dec, 2023",
       "category": "Marketing"
     },
     {
