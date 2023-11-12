@@ -1,7 +1,6 @@
-import Image from "next/image";
+
 import Link from "next/link";
 import React from "react";
-import Technical from "../components/Technical";
 import Tools from "../components/Tools";
 import tech from "./tech.json";
 
@@ -10,7 +9,7 @@ function page() {
     <>
       <div className="bg-fixed bg-technology">
         <div className="mx-auto max-w-2xl py-14 sm:py-10 lg:py-15">
-          <div className="text-center mt-10">
+          <div className="text-center mt-10 mb-12">
             <h1 className="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-5xl sm:text-5xl">
               <span className="text-transparent leading-relaxed bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
                 Digital Technologies <br />
@@ -27,20 +26,7 @@ function page() {
                 efficiency, and transformative changes across various sectors.
               </p>
             </div>
-            <div className="mt-8 flex items-center justify-center gap-x-6">
-              <a
-                href="#"
-                className="rounded-md bg-sky-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-              >
-                Get started
-              </a>
-              <a
-                href="#"
-                className="text-sm font-semibold leading-6 text-gray-900"
-              >
-                Learn more <span aria-hidden="true">→</span>
-              </a>
-            </div>
+            
           </div>
         </div>
 

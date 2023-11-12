@@ -6,43 +6,50 @@ function page() {
   return (
     <>
       <div className="bg-fixed bg-books">
+      
         <div className="mx-auto max-w-2xl py-24 sm:py-30 lg:py-35 ">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center ">
-            <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Announcing our next New Selease Books{" "}
-              <a href="#" className="font-semibold text-sky-500">
-                <span className="absolute inset-0" aria-hidden="true" />
-                Read more <span aria-hidden="true">&rarr;</span>
-              </a>
+            <div className="relative bg-white opacity-70 rounded-full px-3 py-1 text-sm leading-6 text-gray-700 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+              Announcing our next New Book Release
             </div>
           </div>
           <div className="text-center bg-white opacity-80 rounded-xl">
-            <h1 className="mb-4 py-8  text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl sm:text-5xl">
+            <h1 className="mb-4 py-4  text-4xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl sm:text-5xl">
               <span className="text-transparent tracking-wide bg-clip-text bg-gradient-to-l to-emerald-500 from-sky-400">
                 Publications <br />
               </span>{" "}
-              <span className=" text-5xl font-semibold text-transparent bg-clip-text bg-gradient-to-l to-cyan-500 from-sky-800">
+              <span className=" font-semibold text-transparent bg-clip-text bg-gradient-to-l to-cyan-500 from-sky-800">
                 Crafted by Me.
               </span>
             </h1>
+            <h1 className="mb-4 pb-5 text-xl text-center font-medium text-gray-900 dark:text-white md:text-xl lg:text-xl sm:text-xl">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
+               
+              </span>{" "}
+             My Authored collection of books <br/>that cover a spectrum of cutting-edge technologies
+            </h1>
+            
+
+            
           </div>
+          
+          
         </div>
 
         {/* Books */}
         <div className=" bg-white py-12 sm:py-10">
           <h1 className="text-2xl text-center mb-5 px-3 font-bold tracking-tight text-gray-700 sm:text-4xl ">
-            Data to enrich your online business
+             Books On Emerging Technologies
           </h1>
-          <p className="mx-6 pt-4 px-6 text-lg text-gray-900 text-center border-t-2">
-            <span className=" tracking-wide">
-              Aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem
-              cupidatat commodo.{" "}
-            </span>
-            <br />
-            <span>
-              Elit sunt amet Qui irure qui lorem cupidatat commodo. Elit sunt
-              amet fugiat veniam occaecat fugiat aliqua. Anim aute id magna
-              aliqua ad ad non deserunt sunt. veniam occaecat fugia.
+          <p className="mx-6 pt-4 px-6 text-xl text-gray-900 text-center border-t-2">
+            
+            <span className="text-sm text-emerald-700">
+              Explore the Internet of Things (IoT),
+              delve into the intricacies of Blockchain, <br/>navigate the vast realm
+              of Cloud Computing, and gain insights into the world of Artificial
+              Intelligence. <br/>Each book is crafted to provide comprehensive
+              knowledge and practical understanding of these transformative
+              technologies."
             </span>
           </p>
           {/* Books Section */}

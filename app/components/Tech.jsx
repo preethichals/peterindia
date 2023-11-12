@@ -4,36 +4,36 @@ import React from "react";
 function Tech() {
   const features = [
     {
-      name: "Software Engineering",
-      description: "Hand sanded and finished with natural oil",
-      href: "https://www.peterindia.net/SoftwareEngineering.html",
-    },
-    {
-      name: "The Computer Science",
-      description: '6.25" x 3.55" x 1.15"',
-      href: "http://www.peterindia.net/TCS.html",
-    },
-    {
-      name: "Robotics Technology",
-      description:
-        "Solid walnut base with rare earth magnets and powder coated steel card cover",
-      href: "https://www.peterindia.net/Robotics.html",
+      name: "Microservices Architecture",
+      description: "Style that structures an application as a collection of small, independent, loosely coupled services.",
+      href: "https://www.peterindia.net/MSA.html",
     },
 
     {
-      name: "Microservices Architecture",
-      description: "Hand sanded and finished with natural oil",
-      href: "https://www.peterindia.net/MSA.html",
+      name: "Robotics Technology",
+      description:
+        "Use of robots to perform tasks in various industries and applications",
+      href: "https://www.peterindia.net/Robotics.html",
     },
     {
-      name: "IT Storage",
-      description: "Designed by Good Goods, Inc.",
-      href: "http://www.peterindia.net/Storage.html",
+      name: "Enterprise Architecture",
+      description: "A strategic framework that defines the structure and operation of an organization",
+      href: "https://www.peterindia.net/EA.html",
     },
     {
-      name: "IT Jobs",
-      description: '6.25" x 3.55" x 1.15"',
-      href: "https://www.peterindia.net/ITJobSearchSites.html",
+      name: "Blockchain Technology",
+      description: "A decentralized and distributed ledger system that enables secure, transparent transactions",
+      href: "https://www.peterindia.net/Blockchain.html",
+    },
+    {
+      name: "Event Driven Architecture",
+      description: "EDA is a software design pattern that structures the flow of information and processing",
+      href: "https://www.peterindia.net/EDA.html",
+    },
+    {
+      name: "Integration Technologies",
+      description: "A set of tools, techniques, and approaches used to connect and enable the interoperability",
+      href: "https://www.peterindia.net/IntegrationTechnologies.html",
     },
   ];
 
@@ -62,18 +62,35 @@ function Tech() {
           </svg>
           <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left">
             <h2 className="text-4xl text-center font-bold tracking-wide text-neutral-800 sm:text-4xl">
-              Digital Technologies and Tools
+              Emerging Technologies
               <br />
             </h2>
             <p className="mt-4 bg-white p-4 rounded-lg opacity-80">
-              <span className="mt-12 text-lg leading-8 text-black  p-1 ">
-                Ac euismod vel sit maecenas id pellentesque eu sed consectetur.
-                Malesuada adipiscing sagittis vel nulla.
+              <span className="mt-12 text-md leading-8 text-black  p-1 ">
+                <Link
+                  href="https://www.peterindia.net/AI.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Artificial Intelligence(AI)
+                </Link>
+                <Link
+                  href="https://www.peterindia.net/Blockchain.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  , Block Chain{" "}
+                </Link>
+                , 6G communication... <br/>A Forward-looking
+                perspective on the ever-evolving landscape of technological
+                advancements.
               </span>
             </p>
             <div className="mt-6 text-center">
               <Link
                 href="/technology"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="rounded-md bg-cyan-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-sky-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-600 "
               >
                 Learn More
@@ -83,16 +100,16 @@ function Tech() {
 
           <div className="mx-auto my-6 p-6 bg-white rounded-lg">
             <h4 className="text-4xl text-center font-extrabold tracking-wide  text-gray-700 sm:text-4xl pt-3">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-500">
                 Digital Technologies and Tools <br />
               </span>{" "}
             </h4>
-            <p className="mt-6 pt-4 text-neutral-800 text-center leading-loose border-t border-gray-300">
+            <p className="mt-6 text-base pt-4 text-neutral-800 text-center leading-loose border-t border-gray-300">
               Digital technology and tools in the IT industry are diverse and
-              dynamic, continuously evolving to meet the demands
-             of a rapidly changing technological landscape. These tools
-              empower businesses to streamline operations, enhance productivity,
-              and drive innovation in various domains.
+              dynamic, <br/>continuously evolving to meet the demands of a rapidly
+              changing technological landscape, Tools empower businesses
+              to streamline operations, enhance productivity, and drive
+              innovation in various domains.
             </p>
 
             <dl className="mt-10 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-6 lg:gap-x-8 bg-sky-50 py-4">
@@ -101,9 +118,16 @@ function Tech() {
                   key={feature.name}
                   className="border-l-8 border-cyan-700 pt-4 ml-4"
                 >
-                  <dt className="font-semibold text-base text-gray-900 ms-3 tracking-wide uppercase hover:ml-4 hover:text-black hover:tracking-wider">
-                    {feature.name} <span aria-hidden="true">→</span>
-                  </dt>
+                  <Link
+                    href={feature.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {" "}
+                    <dt className="font-semibold text-base text-gray-900 ms-3 tracking-wide uppercase hover:ml-4 hover:text-sky-500 hover:tracking-wider">
+                      {feature.name} <span aria-hidden="true">→</span>
+                    </dt>
+                  </Link>
                   <dd className="mt-2 text-sm text-neutral-900 ms-3">
                     {feature.description}
                   </dd>

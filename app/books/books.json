@@ -10,7 +10,7 @@
 
       "bookUrl": "/b2.jpg",
       "date": "Pre Order, 2024",
-      "category": "Marketing"
+      "category": "AI"
     },
     {
       "id": 2,
@@ -20,7 +20,17 @@
 
       "bookUrl": "/b3.jpg",
       "date": "Pre Order, 2024",
-      "category": "Marketing"
+      "category": "IoT"
+    },
+    {
+      "id":50,
+      "title":"Essentials of Cloud Computing (Edition-02)",
+      "description":"Essentials of Cloud Computing-A Holistic, Cloud-Native Perspective",
+      "href":"https://link.springer.com/book/10.1007/978-3-031-32044-6",
+
+      "bookUrl":"/b50.jpg",
+      "date":"Nov, 2023",
+      "category":"Cloud Computing"
     },
     {
       "id": 3,
@@ -31,7 +41,7 @@
 
       "bookUrl": "/b1.jpg",
       "date": "Pre Order Dec, 2023",
-      "category": "Marketing"
+      "category": "AI"
     },
     {
       "id": 4,
@@ -42,7 +52,7 @@
 
       "bookUrl": "/b4.jpg",
       "date": " 2023",
-      "category": "Marketing"
+      "category": "Quantum Computing"
     },
     {
       "id": 5,
@@ -53,7 +63,7 @@
 
       "bookUrl": "/b5.jpg",
       "date": "Sep 19, 2023",
-      "category": "Marketing"
+      "category": "Digital Twins"
     },
     {
       "id": 6,
@@ -64,7 +74,7 @@
 
       "bookUrl": "/b6.jpg",
       "date": "Oct 3 , 2023",
-      "category": "Marketing"
+      "category": "AI"
     },
 
     {
@@ -77,7 +87,7 @@
 
       "bookUrl": "/b7.jpg",
       "date": "Apr 11, 2022",
-      "category": "Marketing"
+      "category": "Analytics"
     },
     {
       "id": 8,
@@ -88,7 +98,7 @@
 
       "bookUrl": "/b8.jpg",
       "date": "Nov 28, 2022",
-      "category": "Marketing"
+      "category": "Data Science"
     },
     {
       "id": 9,
@@ -100,7 +110,7 @@
 
       "bookUrl": "/b9.jpg",
       "date": "Jan, 2023",
-      "category": "Marketing"
+      "category": "Robotics"
     },
     {
       "id": 10,
@@ -110,7 +120,7 @@
 
       "bookUrl": "/b10.jpg",
       "date": "Apr 21, 2022",
-      "category": "Marketing"
+      "category": "Edge Computing"
     },
     {
       "id": 11,
@@ -121,7 +131,7 @@
 
       "bookUrl": "/b11.jpg",
       "date": "Oct, 2022",
-      "category": "Marketing"
+      "category": "Cloud-native Computing"
     },
     {
       "id": 12,
@@ -132,7 +142,7 @@
 
       "bookUrl": "/b12.jpg",
       "date": "Apr 08, 2022",
-      "category": "Marketing"
+      "category": "Security"
     },
     {
       "id": 13,
@@ -142,7 +152,7 @@
 
       "bookUrl": "/b13.jpg",
       "date": "May 10, 2020",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 14,
@@ -153,7 +163,7 @@
 
       "bookUrl": "/b14.jpg",
       "date": "Apr 6, 2022",
-      "category": "Marketing"
+      "category": "Edge AI"
     },
     {
       "id": 15,
@@ -163,7 +173,7 @@
 
       "bookUrl": "/b15.jpg",
       "date": "Apr 01, 2020",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 16,
@@ -173,7 +183,7 @@
 
       "bookUrl": "/b16.jpg",
       "date": "Mar 30, 2022",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 17,
@@ -183,7 +193,7 @@
 
       "bookUrl": "/b17.jpg",
       "date": "Feb 18, 2022",
-      "category": "Marketing"
+      "category": "Digital Transformation"
     },
     {
       "id": 18,
@@ -193,7 +203,7 @@
 
       "bookUrl": "/b18.jpg",
       "date": "Dec 30, 2021",
-      "category": "Marketing"
+      "category": "Python"
     },
     {
       "id": 19,
@@ -204,7 +214,7 @@
 
       "bookUrl": "/b19.jpg",
       "date": "Nov 23, 2021",
-      "category": "Marketing"
+      "category": "Blockchain"
     },
     {
       "id": 20,
@@ -214,7 +224,7 @@
 
       "bookUrl": "/b20.jpg",
       "date": "Oct 28, 2021",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 21,
@@ -225,7 +235,7 @@
 
       "bookUrl": "/b21.jpg",
       "date": "Dec 30, 2021",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 22,
@@ -237,7 +247,7 @@
 
       "bookUrl": "/b22.jpg",
       "date": "Sep 18, 2021",
-      "category": "Marketing"
+      "category": "Cloud Computing"
     },
     {
       "id": 23,
@@ -247,7 +257,7 @@
 
       "bookUrl": "/b23.jpg",
       "date": "Jun 16, 2021",
-      "category": "Marketing"
+      "category": "Blockchain"
     },
     {
       "id": 24,
@@ -257,7 +267,7 @@
 
       "bookUrl": "/b24.jpg",
       "date": "Apr 12, 2021",
-      "category": "Marketing"
+      "category": "Reliability Engineering"
     },
     {
       "id": 25,
@@ -268,18 +278,18 @@
 
       "bookUrl": "/b25.jpg",
       "date": "Jan 23, 2021",
-      "category": "Marketing"
+      "category": "Blockchain"
     },
     {
       "id": 26,
-      "title": "Essentials of Cloud Computing",
+      "title": "Essentials of Cloud Computing (Edition-01)",
       "description":
         "Essentials of Cloud Computing: A Holistic Perspective (Texts in Computer Science)",
       "href": "https://www.amazon.in/Essentials-Cloud-Computing-Holistic-Perspective/dp/303013136X/ref=sr_1_9?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005949&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-9",
 
       "bookUrl": "/b26.jpg",
       "date": "Dec 1, 2020",
-      "category": "Marketing"
+      "category": "Cloud Computing"
     },
     {
       "id": 27,
@@ -289,7 +299,7 @@
 
       "bookUrl": "/b27.jpg",
       "date": "Sep 17, 2020",
-      "category": "Marketing"
+      "category": "Blockchain"
     },
     {
       "id": 28,
@@ -300,7 +310,7 @@
 
       "bookUrl": "/b28.jpg",
       "date": "Jun 29, 2020",
-      "category": "Marketing"
+      "category": "IoT"
     },
 
     {
@@ -311,7 +321,7 @@
       "href": "https://www.amazon.in/Digital-Paradigm-Smarter-Systems-Environments-ebook/dp/B084B7GMRZ/ref=sr_1_19?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005452&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-19",
       "bookUrl": "/b29.jpg",
       "date": "Jan 28, 2020",
-      "category": "Marketing"
+      "category": "Digital Twins"
     },
     {
       "id": 30,
@@ -321,7 +331,7 @@
       "href": "https://www.amazon.in/Essentials-Microservices-Architecture-Applications-Techniques/dp/0367249952/ref=sr_1_4?crid=13Y2TND6TP69Q&keywords=pethuru+raj+books&qid=1654005314&s=books&sprefix=pethuru+raj+books%2Cstripbooks%2C290&sr=1-4",
       "bookUrl": "/b30.jpg",
       "date": "Sep 05, 2019",
-      "category": "Marketing"
+      "category": "MSA"
     },
     {
       "id": 31,
@@ -331,7 +341,7 @@
 
       "bookUrl": "/b31.jpg",
       "date": "Jun 30, 2019",
-      "category": "Marketing"
+      "category": "Cloud Computing"
     },
     {
       "id": 32,
@@ -342,7 +352,7 @@
 
       "bookUrl": "/b32.jpg",
       "date": "Jan 01, 2019",
-      "category": "Marketing"
+      "category": "REST Services"
     },
     {
       "id": 33,
@@ -353,7 +363,7 @@
 
       "bookUrl": "/b33.jpg",
       "date": "Nov 30, 2018",
-      "category": "Marketing"
+      "category": "SRE"
     },
     {
       "id": 34,
@@ -363,7 +373,7 @@
 
       "bookUrl": "/b34.jpg",
       "date": "Sep 18, 2018",
-      "category": "Marketing"
+      "category": "Enterprise Architecture"
     },
     {
       "id": 35,
@@ -374,7 +384,7 @@
 
       "bookUrl": "/b35.jpg",
       "date": "Aug 28, 2018",
-      "category": "Marketing"
+      "category": "Cloud Computing"
     },
     {
       "id": 36,
@@ -385,7 +395,7 @@
 
       "bookUrl": "/b36.jpg",
       "date": "Aug 21, 2018",
-      "category": "Marketing"
+      "category": "Blockchain"
     },
     {
       "id": 37,
@@ -396,7 +406,7 @@
 
       "bookUrl": "/b37.jpg",
       "date": "May 18, 2018",
-      "category": "Marketing"
+      "category": "Cloud Computing"
     },
     {
       "id": 38,
@@ -408,7 +418,7 @@
 
       "bookUrl": "/b38.jpg",
       "date": "May 30, 2018",
-      "category": "Marketing"
+      "category": "Data Science"
     },
     {
       "id": 39,
@@ -419,7 +429,7 @@
 
       "bookUrl": "/b39.jpg",
       "date": "Apr 20, 2018",
-      "category": "Marketing"
+      "category": "NoSQL"
     },
     {
       "id": 40,
@@ -430,7 +440,7 @@
 
       "bookUrl": "/b40.jpg",
       "date": "Dec 22, 2017",
-      "category": "Marketing"
+      "category": "Architecture"
     },
     {
       "id": 41,
@@ -440,7 +450,7 @@
 
       "bookUrl": "/b41.jpg",
       "date": "May 31, 2017",
-      "category": "Marketing"
+      "category": "Docker"
     },
     {
       "id": 42,
@@ -450,7 +460,7 @@
 
       "bookUrl": "/b42.jpg",
       "date": "Apr 27, 2017",
-      "category": "Marketing"
+      "category": "Docker"
     },
     {
       "id": 43,
@@ -461,7 +471,7 @@
 
       "bookUrl": "/b43.jpg",
       "date": "Mar 2, 2017",
-      "category": "Marketing"
+      "category": "IoT"
     },
     {
       "id": 44,
@@ -472,7 +482,7 @@
 
       "bookUrl": "/b44.jpg",
       "date": "Oct 28, 2015",
-      "category": "Marketing"
+      "category": "Data Analytics"
     },
     {
       "id": 45,
@@ -482,7 +492,7 @@
 
       "bookUrl": "/b45.jpg",
       "date": "Jun 19, 2015",
-      "category": "Marketing"
+      "category": "Docker"
     },
     {
       "id": 46,
@@ -493,7 +503,7 @@
 
       "bookUrl": "/b46.jpg",
       "date": "Jun 15, 2015",
-      "category": "Marketing"
+      "category": "Smart Cities"
     },
     {
       "id": 47,
@@ -504,7 +514,7 @@
 
       "bookUrl": "/b47.jpg",
       "date": "Oct 31, 2014",
-      "category": "Marketing"
+      "category": "SOA"
     },
     {
       "id": 48,
@@ -515,7 +525,7 @@
 
       "bookUrl": "/b48.jpg",
       "date": "Sep 01, 2014",
-      "category": "Marketing"
+      "category": "SOA"
     },
     {
       "id": 49,
@@ -526,6 +536,6 @@
 
       "bookUrl": "/b49.jpg",
       "date": "Mar 30, 2014",
-      "category": "Marketing"
+      "category": "Cloud"
     }
   ]

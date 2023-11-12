@@ -1,8 +1,7 @@
-import Link from 'next/link'
-import React from 'react'
+import Link from "next/link";
+import React from "react";
 
 function Books() {
-
   return (
     <div className="relative overflow-hidden bg-slate-100 ">
       <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
@@ -11,9 +10,13 @@ function Books() {
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               Authored publications here
             </h1>
-            <p className="mt-4 text-xl text-gray-500">
-              This year, our new summer collection will shelter you from the harsh elements of a world that doesn't care
-              if you live or die.
+            <p className="mt-4 text-base text-gray-500">
+              The Latest Literary Endeavors — a collection of books spanning the
+              realms of 5G Communication, AI, Blockchain
+              Technology, Cybersecurity, and Data Engineering. 
+              <br/>Journey through
+              the landscapes of DevOps, the Internet of Things (IoT) Paradigm in my
+              recent releases.
             </p>
           </div>
           <div>
@@ -24,10 +27,10 @@ function Books() {
                 className="pointer-events-none lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl"
               >
                 <div className="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
-                  <div className="flex items-center space-x-6 lg:space-x-8">
+                 <div className="flex items-center space-x-6 lg:space-x-8">
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
-                        <img 
+                        <img
                           src="/b2.jpg"
                           alt="Streaming Analytics"
                           className="h-full w-full object-cover object-center p-2"
@@ -42,7 +45,7 @@ function Books() {
                       </div>
                     </div>
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
                           src="/Cognitive Internet.png"
                           alt=""
@@ -94,10 +97,8 @@ function Books() {
           </div>
         </div>
       </div>
-   
     </div>
-  )
+  );
 }
 
-
-export default Books
+export default Books;

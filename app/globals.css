@@ -37,3 +37,8 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
+.bg-about {
+  background-image: url("../public/Hello.jpg");
+  background-attachment: fixed;
+  background-position: center;
+}

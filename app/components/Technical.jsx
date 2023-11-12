@@ -4,41 +4,46 @@ import React from "react";
 function Technical() {
   const features = [
     {
-      id:1,
-      name: "Microservices Architecture",
-      description: "Hand sanded and finished with natural oil",
-      href: "https://www.peterindia.net/MSA.html",
+      id: 1,
+      name: "Data Engineering",
+      description:
+        "The practical application of data collection, processing, and management",
+      href: "https://www.peterindia.net/DataEngineering.html",
     },
     {
-      id:2,
+      id: 2,
+      name: "Knowledge Engineering",
+      description:
+        "The development and application of methods and tools to acquire",
+      href: "https://www.peterindia.net/KnowledgeEngineering.html",
+    },
+    {
+      id: 3,
+      name: "Process Engineering",
+      description:
+        "Focuses on designing, optimizing, and implementing processes within various industries ",
+      href: "https://www.peterindia.net/ProcessEngineering.html",
+    },
+    {
+      id: 4,
+      name: "Reliability Engineering",
+      description: "Ensuring the dependability and performance",
+      href: "https://www.peterindia.net/ReliabilityEngineering.html",
+    },
+    {
+      id: 5,
       name: "Software Engineering",
-      description: "Hand sanded and finished with natural oil",
+      description:
+        "The design, development, testing, deployment, and maintenance of software systems",
       href: "https://www.peterindia.net/SoftwareEngineering.html",
     },
+
     {
-      id:3,
-      name: "Robotics Technology",
+      id: 6,
+      name: "Platform Engineering",
       description:
-        "Solid walnut base with rare earth magnets and powder coated steel card cover",
-      href: "https://www.peterindia.net/Robotics.html",
-    },
-    {
-      id:4,
-      name: "The Computer Science",
-      description: '6.25" x 3.55" x 1.15"',
-      href: "http://www.peterindia.net/TCS.html",
-    },
-    {
-      id:5,
-      name: "IT Storage",
-      description: "Designed by Good Goods, Inc.",
-      href: "http://www.peterindia.net/Storage.html",
-    },
-    {
-      id:6,
-      name: "IT Jobs",
-      description: '6.25" x 3.55" x 1.15"',
-      href: "https://www.peterindia.net/ITJobSearchSites.html",
+        "The foundational infrastructure, frameworks, and tools that support",
+      href: "https://www.peterindia.net/PlatformSoftware.html",
     },
   ];
   const tech = [
@@ -48,19 +53,20 @@ function Technical() {
       imageUrl: "/cloud-03.jpg",
       href: "http://www.peterindia.net/DigitalInfrastructure.html",
     },
-   
-     {
+
+    {
       id: 2,
       name: "IT Networking",
       imageUrl: "/cloud-04.jpg",
       href: "http://www.peterindia.net/Networking.html",
-    },{
+    },
+    {
       id: 3,
       name: "Middleware",
       imageUrl: "/cloud-7.jpg",
       href: "http://www.peterindia.net/Middleware.html",
     },
-     {
+    {
       id: 4,
       name: "IT Operations",
       imageUrl: "/cloud-1.jpg",
@@ -78,8 +84,6 @@ function Technical() {
       imageUrl: "/cloud-5.jpg",
       href: "http://www.peterindia.net/Computing.html",
     },
-    
-    
   ];
   return (
     <div className="bg-white">
@@ -103,21 +107,25 @@ function Technical() {
 
         <div className="m-auto p-6 bg-neutral-700 rounded-lg">
           <h2 className="text-4xl text-center font-light tracking-wide text-cyan-300 sm:text-4xl pt-3">
-            Technical Specifications
+            Software Engineering
           </h2>
           <p className="mt-4 text-neutral-200 text-center tracking-wide font-light leading-7">
-            The walnut wood card tray is precision milled to perfectly fit a
-            stack of Focus cards. The powder coated steel divider separates
-            active cards from new ones, or can be used to archive important task
-            lists.
+            Engineering the principles, methods, and tools to create high-quality,
+            reliable, and efficient software that meets specific user needs and
+            adheres to predefined requirements. 
           </p>
 
           <dl className="mt-7 pb-7 bg-white grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-6 lg:gap-x-8">
             {features.map((feature) => (
               <div key={feature.name} className="border-t border-gray-400 pt-4">
-                <Link href={feature.href}><dt className="font-semibold text-md text-cyan-500 ms-3 tracking-wider uppercase hover:text-neutral-800 hover:underline">
-                  {feature.name} <span aria-hidden="true">→</span>
-                </dt>
+                <Link
+                  href={feature.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <dt className="font-semibold text-md text-cyan-500 ms-3 tracking-wider uppercase hover:text-neutral-800 hover:underline">
+                    {feature.name} <span aria-hidden="true">→</span>
+                  </dt>
                 </Link>
                 <dd className="mt-2 text-sm text-neutral-700 ms-3">
                   {feature.description}

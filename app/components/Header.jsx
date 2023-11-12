@@ -21,7 +21,7 @@ function Header() {
   <div className="w-full max-w-screen-xl mx-auto p-1 text-slate-50">
     <div className="sm:flex sm:justify-between text-sm flex font-light">
       <Link href="mailto:peterindia@gmail.com" target="_blank" rel="noopener noreferrer">
-        <h5 className='tracking-widest px-2'> Send Your Query (Mail-Id : peterindia@gmail.com)</h5>
+        <h5 className='tracking-widest px-2'> For Adding Links, Advertisement (Mail : peterindia@gmail.com)</h5>
         </Link>
 </div></div></div>
       <header className="inset-x-0 top-0 z-50 sticky opacity-90 bg-white">
@@ -47,13 +47,13 @@ function Header() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+            <div className="text-sm font-semibold leading-6 text-gray-900">
               <span className='flex flex-row justify-around'>
             <Link href='https://www.linkedin.com/in/sweetypeter' target="_blank" rel="noopener noreferrer"><img src='/LinkedIn.png' width={30} height={30} className="me-2" /> </Link>
-            <Link href='https://www.linkedin.com/in/sweetypeter' target="_blank" rel="noopener noreferrer"><img src='/Facebook.png' width={30} height={30} /></Link>
-            <Link href='https://scholar.google.co.in/citations?user=MgMlqAwAAAAJ&hl=en&authuser=1' target="_blank" rel="noopener noreferrer"><img src='/google-scolar.png' width={30} height={30} /></Link>
-            <Link href='https://www.linkedin.com/in/sweetypeter' target="_blank" rel="noopener noreferrer"><img src='/x-social-icon.png' width={30} height={30} /></Link></span><span aria-hidden="true"></span>
-            </a>
+            <Link href='https://www.facebook.com/sweetypeter' target="_blank" rel="noopener noreferrer"><img src='/Facebook.png' width={30} height={30} className="me-2"/></Link>
+            <Link href='https://scholar.google.co.in/citations?user=MgMlqAwAAAAJ&hl=en&authuser=1' target="_blank" rel="noopener noreferrer"><img src='/google-scolar.png' width={30} height={30} className="me-2" /></Link>
+            <Link href='https://twitter.com/peterindia' target="_blank" rel="noopener noreferrer"><img src='/x-social-icon.png' width={30} height={30} /></Link></span><span aria-hidden="true"></span>
+            </div>
           </div>
         </nav>
         <Dialog as="div" className="lg:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
@@ -95,25 +95,30 @@ function Header() {
                     LinkedIn
                   </Link> 
                   <Link
-                    href="#" target="_blank" rel="noopener noreferrer"
+                    href='https://www.facebook.com/sweetypeter' target="_blank" rel="noopener noreferrer"
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                   >
                     FaceBook
                   </Link> 
                   <Link
-                    href="#" target="_blank" rel="noopener noreferrer"
+                    href='https://twitter.com/peterindia' target="_blank" rel="noopener noreferrer"
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                   >
                     Twitter
                   </Link> 
                   <Link
-                    href="href='https://scholar.google.co.in/citations?user=MgMlqAwAAAAJ&hl=en&authuser=1'" target="_blank" rel="noopener noreferrer"
+                    href="https://scholar.google.co.in/citations?user=MgMlqAwAAAAJ&hl=en&authuser=1" target="_blank" rel="noopener noreferrer"
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                   >
                    Google Scholar
                   </Link>
+                  
                 </div>
+                                  
               </div>
+                <Link href="mailto:peterindia@gmail.com" target="_blank" rel="noopener noreferrer">
+                  <p className='mt-12 tracking-widest text-gray-800 font-medium'>For Adding Links, Advertisement (Mail : peterindia@gmail.com)</p>
+                  </Link>
             </div>
           </Dialog.Panel>
         </Dialog>

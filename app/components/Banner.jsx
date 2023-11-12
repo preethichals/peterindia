@@ -2,16 +2,12 @@ import Link from 'next/link'
 import React from 'react'
 
 function Banner() {
-  return (
-   <div className="relative isolate overflow-hidden bg-gray-900 py-14 px-10 sm:py-12 backdrop-blur-sm bg-white/30">
-      <img
-        src="/header-bg.jpg"
-        alt=""
-        className="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center"
-      />
+  return (<>
+     <div className="bg-fixed bg-tech">
+        <div className="mx-auto max-w-2xl py-14 sm:py-10 lg:py-15">
      <div className="mt-5 sm:flex sm:justify-center ">
-            <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Announcing our next New Selease Books{" "}
+            <div className="relative text-center rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+              Announcing our next New Book Release{" "}
               <Link href="/books" className="font-semibold text-sky-500">
                 <span className="absolute inset-0" aria-hidden="true" />
                 Read more <span aria-hidden="true">&rarr;</span>
@@ -28,25 +24,22 @@ function Banner() {
               Scalable AI.
             </h1>
 
-            <h3 className="text-2xl font-bold tracking-wide  text-gray-900 sm:text-3xl mb-4">
-              Data to enrich your online business
-            </h3>
+            
             <div className="bg-white bg  bg-opacity-50 rounded-lg py-3 px-5">
-              <p className="mt-4 mb-3 text-lg leading-8 text-gray-900">
-                Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-                lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-                fugiat aliqua.
+              <p className="mt-4 mb-3 text-lg font-medium leading-8 text-gray-900">
+               My Authored collection of books <br/>that cover a spectrum of cutting-edge technologies.
+
               </p>
             </div>
             <div className="mt-5 flex items-center justify-center gap-x-6">
               <Link
-                href="/about"
-                className="rounded-md bg-sky-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-emerald-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                href="/books"
+                className="rounded-md bg-sky-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-teal-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Get started
               </Link>
               <Link
-                href="/books"
+                href="/technology"
                 className="text-sm font-semibold leading-6 text-gray-900"
               >
                 Learn more <span aria-hidden="true">→</span>
@@ -55,8 +48,10 @@ function Banner() {
           </div>
         </div>
       </div>
+      </div>
+     
        
-
+</>
         
    
   )
