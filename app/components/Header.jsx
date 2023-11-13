@@ -21,7 +21,7 @@ function Header() {
   <div className="w-full max-w-screen-xl mx-auto p-1 text-slate-50">
     <div className="sm:flex sm:justify-between text-sm flex font-light">
       <Link href="mailto:peterindia@gmail.com" target="_blank" rel="noopener noreferrer">
-        <h5 className='tracking-widest px-2'> For Adding Links, Advertisement (Mail : peterindia@gmail.com)</h5>
+        <h5 className='tracking-widest px-2'> For Adding Links & Advertisement (Mail : peterindia@gmail.com)</h5>
         </Link>
 </div></div></div>
       <header className="inset-x-0 top-0 z-50 sticky opacity-90 bg-white">

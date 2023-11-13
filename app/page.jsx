@@ -6,19 +6,15 @@ import Banner from "./components/Banner";
 import Technical from "./components/Technical";
 import Tech from "./components/Tech";
 
-
 function HomePage() {
   return (
     <>
       <Header />
       <Banner />
       <Books />
-          <Tech />
+      <Tech />
       <Technical />
-     
       <Footer />
-
-    
     </>
   );
 }

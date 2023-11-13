@@ -1,8 +1,14 @@
-
 import Link from "next/link";
 import React from "react";
 import Tools from "../components/Tools";
 import tech from "./tech.json";
+
+export const metadata = {
+  title: "Technology and Tools",
+  description: "Digital technology and tools play a crucial role in the IT (Information Technology) industry",
+  keywords:
+    "Cloud Technology, Internet of Things, Blockchain, Digital Technology, Books,Computing, Artificial intelligence, models, streaming analytics, digital twins, cloud-native computing, edge and serverless computing, reliability engineering, microservices architecture, quantum computing, event-driven architecture,5G/6G",
+};
 
 function page() {
   return (
@@ -16,8 +22,8 @@ function page() {
               </span>{" "}
               and Tools
             </h1>
-            <h1 className="text-2xl  font-bold tracking-tight text-gray-900 sm:text-4xl">
-              are diverse and dynamic
+            <h1 className="text-2xl font-bold tracking-wide text-gray-900 sm:text-4xl">
+              are Innovative, Disruptive and Transformative
             </h1>
             <div className=" bg-white mt-4 bg-opacity-70 rounded-lg py-3 px-5">
               <p className="mt-4 mb-3 text-lg leading-8 text-gray-900">
@@ -26,7 +32,6 @@ function page() {
                 efficiency, and transformative changes across various sectors.
               </p>
             </div>
-            
           </div>
         </div>
 

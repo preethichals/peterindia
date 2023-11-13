@@ -1,23 +1,58 @@
 import Link from "next/link";
 import React from "react";
+import { CheckIcon } from "@heroicons/react/20/solid";
 
 function Books() {
+  
+  const titles = [
+    {
+      id: 1,
+      name: "5G/6G Communication",
+    },
+     {
+      id: 2,
+      name: "Artificial Intelligence",
+    },
+     {
+      id: 3,
+      name: "Blockchain Technology",
+    },
+     {
+      id: 4,
+      name: "Cloud-native Computing",
+    },
+     {
+      id: 5,
+      name: "Knowledge Engineering",
+    },
+    {
+      id: 6,
+      name: "Internet of Things & More",
+    },
+  ]
   return (
     <div className="relative overflow-hidden bg-slate-100 ">
       <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
         <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
           <div className="sm:max-w-lg">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Authored publications here
+              Published Works
             </h1>
-            <p className="mt-4 text-base text-gray-500">
-              The Latest Literary Endeavors — a collection of books spanning the
-              realms of 5G Communication, AI, Blockchain
-              Technology, Cybersecurity, and Data Engineering. 
-              <br/>Journey through
-              the landscapes of DevOps, the Internet of Things (IoT) Paradigm in my
-              recent releases.
-            </p>
+            <ul
+                role="list"
+                className="mt-8 grid grid-cols-1 gap-4 text-sm leading-6 text-gray-600 sm:grid-cols-2 sm:gap-6"
+              >
+                {titles.map((title) => (
+                  <li key={title.id} className="flex gap-x-3">
+                    <CheckIcon
+                      className="h-6 w-5 flex-none text-cyan-600"
+                      aria-hidden="true"
+                    />
+                     {title.name}
+                  </li>
+                ))}
+              </ul>
+            
           </div>
           <div>
             <div className="mt-10">
@@ -89,7 +124,7 @@ function Books() {
 
               <Link
                 href="/books"
-                className="inline-block rounded-md   bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-neutral-800 tracking-wide border-2 border-zinc-400"
+                className="inline-block rounded-md   bg-sky-500 px-8 py-3 text-center font-medium text-white hover:bg-cyan-500 tracking-wide border-2 border-zinc-400"
               >
                 View More Books
               </Link>

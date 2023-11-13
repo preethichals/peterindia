@@ -27,7 +27,7 @@ function Banner() {
             
             <div className="bg-white bg  bg-opacity-50 rounded-lg py-3 px-5">
               <p className="mt-4 mb-3 text-lg font-medium leading-8 text-gray-900">
-               My Authored collection of books <br/>that cover a spectrum of cutting-edge technologies.
+               Authored/Edited Collection of books <br/>that cover a spectrum of cutting-edge technologies.
 
               </p>
             </div>

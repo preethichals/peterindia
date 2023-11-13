@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
+
 function Technical() {
   const features = [
     {
@@ -85,9 +86,10 @@ function Technical() {
       href: "http://www.peterindia.net/Computing.html",
     },
   ];
+  
   return (
     <div className="bg-white">
-      <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 py-20 sm:px-6 sm:py-20 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 py-10 sm:px-6 sm:py-20 lg:max-w-7xl lg:grid-cols-2 lg:px-8">
         <div className="grid grid-cols-3 grid-rows-2 sm:gap-6 lg:gap-6">
           {tech.map((item) => (
             <div key={item.id} className="items-center">
@@ -107,13 +109,9 @@ function Technical() {
 
         <div className="m-auto p-6 bg-neutral-700 rounded-lg">
           <h2 className="text-4xl text-center font-light tracking-wide text-cyan-300 sm:text-4xl pt-3">
-            Software Engineering
+            Engineering Paradigms
           </h2>
-          <p className="mt-4 text-neutral-200 text-center tracking-wide font-light leading-7">
-            Engineering the principles, methods, and tools to create high-quality,
-            reliable, and efficient software that meets specific user needs and
-            adheres to predefined requirements. 
-          </p>
+          
 
           <dl className="mt-7 pb-7 bg-white grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-6 lg:gap-x-8">
             {features.map((feature) => (

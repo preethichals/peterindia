@@ -2,11 +2,17 @@ import Link from "next/link";
 import React from "react";
 import books from "./books.json";
 
+export const metadata = {
+  title: "Books",
+  description: "Collection of books that cover a spectrum of cutting-edge technologies",
+  keywords:
+    "Cloud Technology, Internet of Things, Blockchain, Digital Technology, Books,Computing, Artificial intelligence, models, streaming analytics, digital twins, cloud-native computing, edge and serverless computing, reliability engineering, microservices architecture, quantum computing, event-driven architecture,5G/6G",
+};
+
 function page() {
   return (
     <>
       <div className="bg-fixed bg-books">
-      
         <div className="mx-auto max-w-2xl py-24 sm:py-30 lg:py-35 ">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center ">
             <div className="relative bg-white opacity-70 rounded-full px-3 py-1 text-sm leading-6 text-gray-700 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
@@ -23,33 +29,26 @@ function page() {
               </span>
             </h1>
             <h1 className="mb-4 pb-5 text-xl text-center font-medium text-gray-900 dark:text-white md:text-xl lg:text-xl sm:text-xl">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
-               
-              </span>{" "}
-             My Authored collection of books <br/>that cover a spectrum of cutting-edge technologies
+              <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400"></span>{" "}
+              Authored/Edited Collection of books <br />
+              that cover a spectrum of cutting-edge technologies
             </h1>
-            
-
-            
           </div>
-          
-          
         </div>
 
         {/* Books */}
         <div className=" bg-white py-12 sm:py-10">
           <h1 className="text-2xl text-center mb-5 px-3 font-bold tracking-tight text-gray-700 sm:text-4xl ">
-             Books On Emerging Technologies
+            Books On Emerging Technologies
           </h1>
           <p className="mx-6 pt-4 px-6 text-xl text-gray-900 text-center border-t-2">
-            
             <span className="text-sm text-emerald-700">
-              Explore the Internet of Things (IoT),
-              delve into the intricacies of Blockchain, <br/>navigate the vast realm
-              of Cloud Computing, and gain insights into the world of Artificial
-              Intelligence. <br/>Each book is crafted to provide comprehensive
-              knowledge and practical understanding of these transformative
-              technologies."
+              Explore the Internet of Things (IoT), delve into the intricacies
+              of Blockchain, <br />
+              navigate the vast realm of Cloud Computing, and gain insights into
+              the world of Artificial Intelligence. <br />
+              Each book is crafted to provide comprehensive knowledge and
+              practical understanding of these transformative technologies."
             </span>
           </p>
           {/* Books Section */}

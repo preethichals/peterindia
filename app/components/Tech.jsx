@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import { CheckIcon } from "@heroicons/react/20/solid";
 
 function Tech() {
   const features = [
@@ -37,6 +38,8 @@ function Tech() {
     },
   ];
 
+  
+
   return (
     <div className="bg-white pt-4">
       <div className="mx-auto max-w-full py-6 sm:px-6 sm:py-2 lg:px-8">
@@ -65,26 +68,10 @@ function Tech() {
               Emerging Technologies
               <br />
             </h2>
+            
             <p className="mt-4 bg-white p-4 rounded-lg opacity-80">
-              <span className="mt-12 text-md leading-8 text-black  p-1 ">
-                <Link
-                  href="https://www.peterindia.net/AI.html"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Artificial Intelligence(AI)
-                </Link>
-                <Link
-                  href="https://www.peterindia.net/Blockchain.html"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  , Block Chain{" "}
-                </Link>
-                , 6G communication... <br/>A Forward-looking
-                perspective on the ever-evolving landscape of technological
-                advancements.
-              </span>
+              AI, Blockchain, Quantum and Edge computing, Advanced robotics, 5G/6G technology, and more...
+              <br/>These technologies are closely monitored by industry experts, researchers, for their potential to shape the future of various domains.
             </p>
             <div className="mt-6 text-center">
               <Link
