@@ -82,7 +82,7 @@ function Books() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100 bg-slate-200">
                         <img
-                          src="/Cognitive Internet.png"
+                          src="/b16.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center p-2"
                         />
@@ -105,7 +105,7 @@ function Books() {
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
-                          src="/Book-Blockchain.png"
+                          src="/b19.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
