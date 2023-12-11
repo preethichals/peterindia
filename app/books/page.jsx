@@ -69,7 +69,7 @@ function page() {
                   >
                     <div className="object-cover my-auto mx-auto ">
                       <img
-                        src="https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B600%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9781119985600_p0_v1_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B600x10000%5D&sink=format%5Bwebp%5D"
+                        src={book.bookUrl}
                         width={150}
                         height={48}
                         className="mt-3 mb-2 border-4"
@@ -93,10 +93,11 @@ function page() {
                   {/* shop link */}
                   <div className="group relative">
                     <h3 className="mt-3 pb-2 text-lg line-clamp-2 font-semibold leading-6 text-cyan-600 border-b-2  border-neutral-400 ">
-                      <a href={book.href}>
+                      <Link href={book.href} target="_blank"
+                      rel="noopener noreferrer" >
                         <span className="absolute inset-0  " />
                         {book.title}
-                      </a>
+                      </Link>
                     </h3>
                     <p className="mt-3 line-clamp-3 text-sm leading-6 text-gray-800">
                       {book.description}
