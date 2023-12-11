@@ -93,10 +93,10 @@ function page() {
 
                   {/* shop link */}
                   <div className="group relative">
-                    <h3 className="mt-3 pb-2 text-lg line-clamp-2 font-semibold leading-6 text-cyan-600 border-b-2  border-neutral-400 ">
+                    <h3 className="mt-3 pb-2 text-lg  font-semibold leading-6 text-cyan-600 border-b-2  border-neutral-400 ">
                       <Link href={book.href} target="_blank"
                          rel="noopener noreferrer" >
-                        <span className="absolute inset-0 leading-loose " />
+                        <span className="absolute inset-0 leading-loose line-clamp-2 " />
                         {book.title}
                       </Link>
                     </h3>
