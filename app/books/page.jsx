@@ -73,6 +73,7 @@ function page() {
                         width={150}
                         height={48}
                         className="mt-3 mb-2 border-4"
+                        alt="book"
                       />
                     </div>
                   </Link>
